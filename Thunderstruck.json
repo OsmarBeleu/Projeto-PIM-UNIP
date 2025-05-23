@@ -1,0 +1,27 @@
+[
+    {
+        "ID": "00001",
+        "Nome": "beleu",
+        "Data de Nascimento": "31/31/3131",
+        "CPF": "63640264849a87c90356129d99ea165e37aa5fabc1fea46906df1a7ca50db492",
+        "Curso": "N",
+        "Senha": "2b8fbda969a8aaa908e763c57e6b22a1697b7c0c5f95fc35b95d492fcc54d082"
+    },
+    {
+        "ID": "00002",
+        "Nome": "osmar",
+        "Data de Nascimento": "12/12/1212",
+        "CPF": "63640264849a87c90356129d99ea165e37aa5fabc1fea46906df1a7ca50db492",
+        "Curso": "N",
+        "Senha": "2b8fbda969a8aaa908e763c57e6b22a1697b7c0c5f95fc35b95d492fcc54d082"
+    },
+    {
+        "ID": "00003",
+        "Nome": "Osmar Teodorio dos Santos",
+        "Data de Nascimento": "19/12/2006",
+        "CPF": "63640264849a87c90356129d99ea165e37aa5fabc1fea46906df1a7ca50db492",
+        "Email": "99224070118bb80b7f3e869bf26c583c6e60aa0a0e11ba9295b070bd5fe01c2c",
+        "Curso": "N",
+        "Senha": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    }
+]
